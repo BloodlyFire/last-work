@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 350 497.3" style="enable-background:new 0 0 350 497.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:url(#SVGID_00000044140408283497271750000010726379386424047765_);}
+</style>
+<image style="display:none;overflow:visible;enable-background:new    ;" width="840" height="859" xlink:href="ABBF674F.png"  transform="matrix(0.5481 0 0 0.5717 -46.5749 -6.713867e-03)">
+</image>
+<radialGradient id="SVGID_1_" cx="183.9539" cy="111.105" r="207.8265" fx="187.163" fy="199.0173" gradientTransform="matrix(1 0 0 -1 0 356.64)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#B87748"/>
+	<stop  offset="0.9925" style="stop-color:#712A1A"/>
+</radialGradient>
+<path class="st0" d="M198.1,491.1c93.4-10.6,141.1-79,146.9-133.9s-39.2-113.4-52.8-164.7s4.3-84.8,4.3-84.8
+	c-25,7.1-49.2,24.2-62,64.2c2.9-112.6-44.9-154-74.9-171.8c18.5,65.6-22.8,99.8-44.2,130.5S44.2,238.1,89.1,344.3
+	C39.2,308,39.2,236.7,39.2,236.7c-51.3,116.9,26.4,232.4,82.7,241.7c21,3.5,81.9,10,70.6-47c-8.5-42.8-61.9-55.1-69.1-175.4
+	c-1.4-23.5,9.8-52.5,19.2-69.1c9-15.8,31.4-37.1,31.4-37.1s-14.9,40.6-11.8,65.5c12.5,100.6,133.7,121.3,103.1,219.7
+	c-9.8-29.8-56.3-109.1-101.9-128.3C268,447,198.1,491.1,198.1,491.1z"/>
+<path class="st1" d="M251.1,201.4C234,302.6,288,305.1,299.4,348.6C300.4,262.3,263.2,291.2,251.1,201.4z"/>
+<radialGradient id="SVGID_00000106827884246874770960000008675609599045822874_" cx="190.1586" cy="-31.2976" r="131.2179" fx="190.2775" fy="-66.9055" gradientTransform="matrix(1 0 0 -1 0 356.64)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#7B4441"/>
+	<stop  offset="0.9925" style="stop-color:#712A1A"/>
+</radialGradient>
+<path style="fill:url(#SVGID_00000106827884246874770960000008675609599045822874_);" d="M197.2,491.1
+	c61.3,0,189.2-76.9,133.4-206.4c-9.5,3.5-245.7,87.9-294.6,103.2C64.8,499.7,197.2,491.1,197.2,491.1z"/>
+</svg>
